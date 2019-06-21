@@ -1,0 +1,36 @@
+
+
+body {
+    
+    margin-top: 100px;
+}
+
+.logo-wrap--home {
+ text-align: center;
+ max-width:300px;
+ margin: auto;
+
+}
+
+.bigbox {
+    margin-top: 50px;
+
+}
+
+.search-wrap--home {
+
+text-align: center;
+ max-width:500px;
+ margin: auto;
+
+}
+.entry-wrap--home {
+ position:relative;
+ 
+max-width:500px;
+ margin:auto;
+
+}
+p{
+font: arial;
+}
